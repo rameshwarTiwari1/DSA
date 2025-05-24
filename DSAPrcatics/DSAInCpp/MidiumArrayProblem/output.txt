@@ -1,0 +1,4 @@
+The modified 2D matrixay is:
+1 0 0 
+0 0 0 
+1 0 0 
